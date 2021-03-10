@@ -1,3 +1,3 @@
 # adknudson.github.io
 
-[alexknudson.com](http://www.alexknudson.com)
+[www.alexknudson.com](http://www.alexknudson.com)
