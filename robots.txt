@@ -1,0 +1,4 @@
+Sitemap: www.alexknudson.com/sitemap.xml
+
+User-agent: *
+Disallow:
